@@ -1,0 +1,12 @@
+
+{
+ "item _id" : 2,
+ "Brand" : "Samsung", "Model": "Note10",
+ "stocks" : 101 " [
+{
+  "item _id" : 1,
+ "Brand" : "HawkBag", "Model": "HK2",
+ "stocks" : 102 " [
+ }
+ ]
+}
